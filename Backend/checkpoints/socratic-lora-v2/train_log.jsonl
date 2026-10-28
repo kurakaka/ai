@@ -1,0 +1,20 @@
+{"step": 1, "epoch": 1, "train_loss": 3.690599203109741, "lr": 0.0001, "peak_vram_gb": 7.01, "elapsed_min": 0.6}
+{"step": 2, "epoch": 1, "train_loss": 3.8698939085006714, "lr": 9.975923633360985e-05, "peak_vram_gb": 7.2, "elapsed_min": 1.7}
+{"step": 4, "epoch": 1, "train_loss": 2.1903048679232597, "lr": 9.784701678661045e-05, "peak_vram_gb": 7.2, "elapsed_min": 4.3}
+{"step": 6, "epoch": 1, "train_loss": 1.6677222102880478, "lr": 9.409606321741775e-05, "peak_vram_gb": 7.2, "elapsed_min": 6.4}
+{"step": 8, "epoch": 1, "train_loss": 1.5518862679600716, "lr": 8.865052266813685e-05, "peak_vram_gb": 7.38, "elapsed_min": 8.8}
+{"step": 10, "epoch": 1, "train_loss": 1.3783818259835243, "lr": 8.171966420818228e-05, "peak_vram_gb": 7.38, "elapsed_min": 11.1}
+{"epoch": 1, "val_loss": 1.4132943151439827}
+{"step": 12, "epoch": 2, "train_loss": 1.1858232095837593, "lr": 7.35698368412999e-05, "peak_vram_gb": 7.38, "elapsed_min": 13.3}
+{"step": 14, "epoch": 2, "train_loss": 1.1245131306350231, "lr": 6.451423386272312e-05, "peak_vram_gb": 7.38, "elapsed_min": 15.7}
+{"step": 16, "epoch": 2, "train_loss": 1.0538567379117012, "lr": 5.490085701647805e-05, "peak_vram_gb": 7.38, "elapsed_min": 18.2}
+{"step": 18, "epoch": 2, "train_loss": 1.026257373392582, "lr": 4.509914298352197e-05, "peak_vram_gb": 7.38, "elapsed_min": 20.6}
+{"step": 20, "epoch": 2, "train_loss": 0.9974035322666168, "lr": 3.5485766137276894e-05, "peak_vram_gb": 7.38, "elapsed_min": 22.6}
+{"step": 22, "epoch": 2, "train_loss": 0.8834567368030548, "lr": 2.6430163158700115e-05, "peak_vram_gb": 7.38, "elapsed_min": 24.8}
+{"epoch": 2, "val_loss": 1.3552038595808444}
+{"step": 24, "epoch": 3, "train_loss": 0.8473135344684124, "lr": 1.8280335791817733e-05, "peak_vram_gb": 7.38, "elapsed_min": 27.5}
+{"step": 26, "epoch": 3, "train_loss": 0.7087491936981678, "lr": 1.134947733186315e-05, "peak_vram_gb": 7.38, "elapsed_min": 29.5}
+{"step": 28, "epoch": 3, "train_loss": 0.7650343459099531, "lr": 5.903936782582253e-06, "peak_vram_gb": 7.38, "elapsed_min": 31.8}
+{"step": 30, "epoch": 3, "train_loss": 0.7940146364271641, "lr": 2.152983213389559e-06, "peak_vram_gb": 7.38, "elapsed_min": 34.2}
+{"step": 32, "epoch": 3, "train_loss": 0.7390780970454216, "lr": 2.407636663901591e-07, "peak_vram_gb": 7.38, "elapsed_min": 36.6}
+{"epoch": 3, "val_loss": 1.3452950382077344}
